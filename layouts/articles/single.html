@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+<div class="row">
+{{ $articles := $.Site.Data.articles_blog }}
+{{ range $articles }}
+
+	{{ .title }}
+
+{{ end }}
+</div>
+{{ partial "footer.html" . }}

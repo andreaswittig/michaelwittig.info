@@ -2,7 +2,7 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 <div class="row">
-{{ $books := getJson "https://instagram.com/hellomichibye/media/" }}
+{{ $books := $.Site.Data.instagram }}
 {{ range $books.items }}
 	<div class="col-md-2 col-sm-3 col-xs-6">
 		<p><a href="{{ .link }}"><img src="{{ .images.thumbnail.url }}" class="img-responsive img-thumbnail"></a></p>

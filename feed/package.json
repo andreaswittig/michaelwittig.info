@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"parse-rss": "1.0.3"
+	}
+}
