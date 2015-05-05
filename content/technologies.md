@@ -81,10 +81,36 @@ Windows        | 1998 | 2012 | Windows XP, Windows 7
 
 ## web backend
 
+name           | from | to   | use cases
+---------------|------|------|-----------------------------------------------
+Cowboy         | 2014 | now  | Erlang REST framework
+Node.js        | 2013 | now  | event-driven server-side JavaScript
+AWS            | 2013 | now  | Amazon Web Services
+stunnel        | 2012 | 2013 | SSL encryption wrapper
+HAProxy        | 2012 | 2013 | load balancer & proxy
+
 ## web frontend
+
+name           | from | to   | use cases
+---------------|------|------|------------------------------------------------------
+Hugo           | 2015 | now  | generate static sites (used by this site)
+Angular.js     | 2014 | now  | all my new web apps are based on Angular
+Bootstrap      | 2012 | now  | mobile first frontend framework (used by this site)
+jQuery         | 2010 | now  | JavaScript that works on all browsers
 
 ## Amazon Web Services (AWS)
 
-## npm
-
-
+name                   | from | to   | use cases
+-----------------------|------|------|------------------------------------------------------------------
+AWS CloudFormation     | 2013 | now  | infrastructure automation
+Amazon EBS             | 2013 | now  | network attached block level storage
+Amazon CloudWatch      | 2013 | now  | monitoring
+Amazon CloudFront      | 2013 | now  | content delivery network (used by this site)
+Amazon VPC             | 2013 | now  | virtual networks inside AWS
+Elastic Load Balancing | 2013 | now  | load balancer
+Amazon SNS             | 2013 | now  | topic
+Amazon SQS             | 2013 | now  | queue
+Amazon EC2             | 2013 | now  | virtual compute power
+Amazon Route 53        | 2013 | now  | DNS (used by this site)
+Amazon Glacier         | 2013 | now  | long term storage
+Amazon S3              | 2013 | now  | object store (used by this site)
