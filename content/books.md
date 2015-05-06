@@ -10,7 +10,7 @@ type = "books"
 
 ### Amazon Web Service in Action
 
-![cover of Amazon Web Service in Action](/images/books/amazon_web_services_in_action.jpg)
+{{< figure src="/images/books/amazon_web_services_in_action.jpg" title="cover of Amazon Web Service in Action" >}}
 
 * authors: [Andreas Wittig](http://andreaswittig.info/) and me
 * publisher: [Manning](http://manning.com/wittig?a_aid=mwittig&a_bid=cc17df85)
