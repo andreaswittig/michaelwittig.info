@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+<h1>{{ .Title }}</h1>
+{{ if .Params.plain }}
+{{ .Content }}
+{{ else }}
+<div class="row">
+	<div class="col-md-6">
+		<p style="text-align: center;"><img src="/images/projects/{{ .Params.image }}" title="{{ .Title }}" class="img-responsive img-thumbnail"></p>
+	</div>
+	<div class="col-md-6">
+		<div class="well">
+			<h2>facts</h2>
+			<ul>
+				<li>from: {{ .Params.from }}</li>
+				<li>to: {{ .Params.to }}</li>
+				{{ if .Params.link }}<li><a href="{{ .Params.link }}">{{ .Params.link }}</a></li>{{ end}}
+			</ul>
+		</div>
+		{{ .Content }}
+	</div>
+</div>
+{{ end }}
+{{ partial "footer.html" . }}
