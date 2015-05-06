@@ -5,13 +5,14 @@ title = "books"
 type = "books"
 
 +++
+
 ## writing
 
 ### Amazon Web Service in Action
 
 ![cover of Amazon Web Service in Action](/images/books/amazon_web_services_in_action.jpg)
 
-* authors: [Andreas Wittig](https://andreaswittig.info/) and me
+* authors: [Andreas Wittig](http://andreaswittig.info/) and me
 * publisher: [Manning](http://manning.com/wittig?a_aid=mwittig&a_bid=cc17df85)
 * ISB: 9781617292880 
 

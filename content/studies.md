@@ -15,7 +15,7 @@ title = "studies"
 
 ## Business Informatics
 
-* [Duale Hochschule Baden-Württemberg (Stuttgart)](http://www.dhbw-stuttgart.de/themen/bachelor/fakultaet-wirtschaft/wirtschaftsinformatik/konzeption-und-zielsetzung.html)
+* [Duale Hochschule Baden-Württemberg (Stuttgart)](http://www.dhbw-stuttgart.de/themen/bachelor/fakultaet-wirtschaft/wirtschaftsinformatik/profil/)
 * degree: Bachelor of Science
 * duration: 10-2008 - 09-2011
 

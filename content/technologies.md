@@ -17,18 +17,6 @@ Java       | 2008 | now  | with and without frameworks like Spring
 C          | 2008 | 2010 | I used C to program an interface to Deutsche Börse
 PHP        | 2000 | 2010 | My first websites were in PHP.
 
-## Java frameworks
-
-name                   | from | to   | use cases
------------------------|------|------|------------------------------------------------------------------
-Jackson                | 2012 | now  | JSON to Java
-Guava                  | 2012 | now  | makes Java easier to use
-Ektorp                 | 2012 | 2014 | access COuchDB with Java
-Spring                 | 2012 | 2014 | mostly dependency injection, JMS and DAOs
-Primefaces             | 2012 | 2012 | JSF component library
-java.util.concurrent.* | 2009 | now  | only use if you read Java Concurrency in Practice by Brian Goetz
-Java EE                | 2008 | 2014 | mostly JMS, EJB, JPA
-
 ## databases
 
 name                   | from | to   | use cases
@@ -41,6 +29,55 @@ CouchDB                | 2011 | now  | interesting view based database that is v
 kdb+                   | 2009 | now  | most powerful time series database available
 PostgreSQL             | 2008 | 2014 | SQL compliant database
 MySQL                  | 2003 | 2010 | mostly SQL compliant database
+
+## Amazon Web Services (AWS)
+
+I'm a certified AWS Solutions Architect – Associate Level
+
+![AWS Certified Solutions Architect – Associate Level](/images/aws-certified-solutions-architect-associate.png)
+
+name                   | from | to   | use cases
+-----------------------|------|------|------------------------------------------------------------------
+AWS CloudFormation     | 2013 | now  | infrastructure automation
+Amazon EBS             | 2013 | now  | network attached block level storage
+Amazon CloudWatch      | 2013 | now  | monitoring
+Amazon CloudFront      | 2013 | now  | content delivery network (used by this site)
+Amazon VPC             | 2013 | now  | virtual networks inside AWS
+Elastic Load Balancing | 2013 | now  | load balancer
+Amazon SNS             | 2013 | now  | topic
+Amazon SQS             | 2013 | now  | queue
+Amazon EC2             | 2013 | now  | virtual compute power
+Amazon Route 53        | 2013 | now  | DNS (used by this site)
+Amazon Glacier         | 2013 | now  | long term storage
+Amazon S3              | 2013 | now  | object store (used by this site)
+
+## web backend
+
+name           | from | to   | use cases
+---------------|------|------|-----------------------------------------------
+Cowboy         | 2014 | now  | Erlang REST framework
+Node.js        | 2013 | now  | event-driven server-side JavaScript
+AWS            | 2013 | now  | Amazon Web Services
+stunnel        | 2012 | 2013 | SSL encryption wrapper
+HAProxy        | 2012 | 2013 | load balancer & proxy
+
+## web frontend
+
+name           | from | to   | use cases
+---------------|------|------|------------------------------------------------------
+Hugo           | 2015 | now  | generate static sites (used by this site)
+Angular.js     | 2014 | now  | all my new web apps are based on Angular
+Bootstrap      | 2012 | now  | mobile first frontend framework (used by this site)
+jQuery         | 2010 | now  | JavaScript that works on all browsers
+
+## operating systems
+
+name           | from | to   | use cases
+---------------|------|------|-----------------------------------------------
+iOS            | 2008 | now  | iPhone and iPad
+Mac OS X       | 2008 | now  | I code on a Mac, Lion to Yosemite
+Linux          | 2003 | now  | Gentoo, Ubuntu, Debian, CentOS, Amazon Linux
+Windows        | 1998 | 2012 | Windows XP, Windows 7
 
 ## IDEs & editors
 
@@ -70,47 +107,14 @@ Scrum          | 2009 | now  | sprint based project management approach
 CodeBeamer     | 2009 | 2011 | project management tool
 SVN            | 2008 | 2012 | software versioning and revision control system
 
-## operating systems
-
-name           | from | to   | use cases
----------------|------|------|-----------------------------------------------
-iOS            | 2008 | now  | iPhone and iPad
-Mac OS X       | 2008 | now  | I code on a Mac, Lion to Yosemite
-Linux          | 2003 | now  | Gentoo, Ubuntu, Debian, CentOS, Amazon Linux
-Windows        | 1998 | 2012 | Windows XP, Windows 7
-
-## web backend
-
-name           | from | to   | use cases
----------------|------|------|-----------------------------------------------
-Cowboy         | 2014 | now  | Erlang REST framework
-Node.js        | 2013 | now  | event-driven server-side JavaScript
-AWS            | 2013 | now  | Amazon Web Services
-stunnel        | 2012 | 2013 | SSL encryption wrapper
-HAProxy        | 2012 | 2013 | load balancer & proxy
-
-## web frontend
-
-name           | from | to   | use cases
----------------|------|------|------------------------------------------------------
-Hugo           | 2015 | now  | generate static sites (used by this site)
-Angular.js     | 2014 | now  | all my new web apps are based on Angular
-Bootstrap      | 2012 | now  | mobile first frontend framework (used by this site)
-jQuery         | 2010 | now  | JavaScript that works on all browsers
-
-## Amazon Web Services (AWS)
+## Java frameworks
 
 name                   | from | to   | use cases
 -----------------------|------|------|------------------------------------------------------------------
-AWS CloudFormation     | 2013 | now  | infrastructure automation
-Amazon EBS             | 2013 | now  | network attached block level storage
-Amazon CloudWatch      | 2013 | now  | monitoring
-Amazon CloudFront      | 2013 | now  | content delivery network (used by this site)
-Amazon VPC             | 2013 | now  | virtual networks inside AWS
-Elastic Load Balancing | 2013 | now  | load balancer
-Amazon SNS             | 2013 | now  | topic
-Amazon SQS             | 2013 | now  | queue
-Amazon EC2             | 2013 | now  | virtual compute power
-Amazon Route 53        | 2013 | now  | DNS (used by this site)
-Amazon Glacier         | 2013 | now  | long term storage
-Amazon S3              | 2013 | now  | object store (used by this site)
+Jackson                | 2012 | now  | JSON to Java
+Guava                  | 2012 | now  | makes Java easier to use
+Ektorp                 | 2012 | 2014 | access COuchDB with Java
+Spring                 | 2012 | 2014 | mostly dependency injection, JMS and DAOs
+Primefaces             | 2012 | 2012 | JSF component library
+java.util.concurrent.* | 2009 | now  | only use if you read Java Concurrency in Practice by Brian Goetz
+Java EE                | 2008 | 2014 | mostly JMS, EJB, JPA
