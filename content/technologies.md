@@ -32,9 +32,9 @@ MySQL                  | 2003 | 2010 | mostly SQL compliant database
 
 ## Amazon Web Services (AWS)
 
-I'm a certified AWS Solutions Architect – Associate Level
+{{< figure src="/images/aws-certified-solutions-architect-associate.png" title="AWS Certified Solutions Architect – Associate Level" center="true" noborder="true" >}}
 
-![AWS Certified Solutions Architect – Associate Level](/images/aws-certified-solutions-architect-associate.png)
+I'm a certified AWS Solutions Architect – Associate Level
 
 name                   | from | to   | use cases
 -----------------------|------|------|------------------------------------------------------------------

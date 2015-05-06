@@ -18,7 +18,7 @@ Wir alle kennen und schätzen SQL- und NoSQL-Datenbanken. Doch es gibt Anwendung
 
 ## DevOps Conference
 
-![DevOps Conference](/images/talks/devopscon.png)
+{{< figure src="/images/talks/devopscon.png" title="DevOps Conference" center="true" noborder="true" >}}
 
 * date: 02-06-2015
 * language: German

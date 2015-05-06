@@ -5,7 +5,7 @@ title = "studies"
 
 +++
 
-{{< leftfigure src="/images/portrait.png" title="Michael Wittig" >}}
+{{< figure src="/images/portrait.png" title="Michael Wittig" left="true" >}}
 
 ## Digital Pioneering
 

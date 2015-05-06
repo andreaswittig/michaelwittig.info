@@ -1,1 +1,7 @@
-<img src="{{ .Get "src" }}" class="img-responsive img-thumbnail" title="{{ .Get "title" }}">
+<img src="{{ .Get "src" }}" 
+{{ if .Get "noborder" }} class="img-responsive"{{ else }} class="img-responsive img-thumbnail"{{ end }}
+{{ if .Get "left" }} style="float: left; margin-right: 30px;"{{ end }}
+{{ if .Get "right" }} style="float: right; margin-left: 30px;"{{ end }}
+{{ if .Get "center" }} style="display: block; margin: 0 auto;"{{ end }}
+ title="{{ .Get "title" }}">
+ 
