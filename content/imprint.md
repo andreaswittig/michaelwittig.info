@@ -13,7 +13,7 @@ title = "imprint"
 
 	post@michaelwittig.info
 
-## Datenschutzerklärung
+## Datenschutzerklärung (<img src="/images/de.png" title="german">)
 
 ### Datenschutz
 
@@ -31,7 +31,7 @@ Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in d
 
 Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de.
 
-## Haftungsausschluss (Disclaimer)
+## Haftungsausschluss (Disclaimer) (<img src="/images/de.png" title="german">)
 
 ### Haftung für Inhalte
 

@@ -6,7 +6,8 @@ from = "2012"
 to = "now"
 image = "pagechimp.png"
 link = "http://www.pagechimp.de/"
+lang = "de"
 
 +++
 
-PageChimp offers websites for medical practices.
+PageChimp offers sites for medical practices.

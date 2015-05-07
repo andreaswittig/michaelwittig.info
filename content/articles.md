@@ -6,6 +6,4 @@ type = "articles"
 
 +++
 
-{{< figure src="/images/portrait2.jpg" title="Michael Wittig" right="true" >}}
-
 This is an aggregation of several sources where I write articles.

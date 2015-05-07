@@ -13,7 +13,7 @@
 			<ul>
 				<li>from: {{ .Params.from }}</li>
 				<li>to: {{ .Params.to }}</li>
-				{{ if .Params.link }}<li><a href="{{ .Params.link }}">{{ .Params.link }}</a></li>{{ end}}
+				{{ if .Params.link }}<li><a href="{{ .Params.link }}">{{ .Params.link }}</a>{{ if (eq .Params.lang "de") }} (<img src="/images/de.png" title="german">){{ end }}</li>{{ end}}
 			</ul>
 		</div>
 		{{ .Content }}

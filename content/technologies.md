@@ -15,7 +15,7 @@ Objectve-C | 2011 | now  | I created some iOS apps for the iPad with Objectve-C
 q          | 2009 | now  | array-processing language for big data processing
 Java       | 2008 | now  | with and without frameworks like Spring
 C          | 2008 | 2010 | I used C to program an interface to Deutsche Börse
-PHP        | 2000 | 2010 | My first websites were in PHP.
+PHP        | 2000 | 2010 | My first sites were in PHP.
 
 ## databases
 

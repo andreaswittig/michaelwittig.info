@@ -6,6 +6,7 @@ from = "2010"
 to = "now"
 image = "ledgr.png"
 link = "http://www.ledgr.de"
+lang = "de"
 
 +++
 

@@ -6,6 +6,7 @@ from = "2007"
 to = "2010"
 image = "myguv.png"
 link = "http://www.myguv.de"
+lang = "de"
 
 +++
 

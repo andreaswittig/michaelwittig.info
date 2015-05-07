@@ -5,7 +5,7 @@ title = "talks"
 
 +++
 
-## Internet of Things Conference
+## Internet of Things Conference (<img src="/images/de.png" title="german">)
 
 * date: ??-09-2015
 * language: German
@@ -16,7 +16,7 @@ title = "talks"
 
 Wir alle kennen und schätzen SQL- und NoSQL-Datenbanken. Doch es gibt Anwendungsfälle, in denen diese Datenbanken an ihre Grenzen stoßen, zum Beispiel bei der Analyse von Finanzmarktdaten. Dort müssen Zeitreihen von enormer Größe verarbeitet werden. Der Vortrag zeigt auf, wie spaltenorientierte Datenbanken dieses Problem lösen. Die Architektur solcher Tick-Data-Systeme zur Lösung von Realtime und historischen Analysen wird beleuchtet. Der Vortrag endet mit dem Beispiel einer technischen Implementierung für Sensordaten aus dem Internet of Things (IoT).
 
-## DevOps Conference
+## DevOps Conference (<img src="/images/de.png" title="german">)
 
 {{< figure src="/images/talks/devopscon.png" title="DevOps Conference" center="true" noborder="true" >}}
 
@@ -30,8 +30,7 @@ Wir alle kennen und schätzen SQL- und NoSQL-Datenbanken. Doch es gibt Anwendung
 
 Innovation in der Finanzbranche ist technologiegetrieben und erfordert eine Time-To-Market von Stunden und nicht - wie bisher üblich - Jahren. DevOps und Cloud Computing bilden das Fundament, auf dem eine hohe Entwicklungsgeschwindigkeit bei gleichzeitig hoher Qualität und Sicherheit realisiert werden kann. Die Zauberworte dabei heißen automatischer Integrationstest, Infrastructure as Code und agile Testumgebungen. Dieser Vortrag beschreibt praxisnah die Transformation einer Wertpapierhandelsbank von On-Premise nach AWS (Amazon Web Services) und geht dabei auf technische Herausforderungen und den Wandel zu einer DevOps Kultur ein.
 
-
-## BigDataCon
+## BigDataCon (<img src="/images/de.png" title="german">)
 
 * date: 22-04-2015
 * language: German

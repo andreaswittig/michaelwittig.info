@@ -9,18 +9,18 @@ title = "studies"
 
 ## Digital Pioneering
 
-* [Zeppelin Universität](http://www.zu.de/deutsch/bewerberportal/master/eMa_dipi.php?navid=129)
+* [Zeppelin Universität](http://www.zu.de/deutsch/bewerberportal/master/eMa_dipi.php?navid=129) (<img src="/images/de.png" title="german">)
 * degree: none
 * duration: 10-2011 - 09-2012
 
 ## Business Informatics
 
-* [Duale Hochschule Baden-Württemberg (Stuttgart)](http://www.dhbw-stuttgart.de/themen/bachelor/fakultaet-wirtschaft/wirtschaftsinformatik/profil/)
+* [Duale Hochschule Baden-Württemberg (Stuttgart)](http://www.dhbw-stuttgart.de/themen/bachelor/fakultaet-wirtschaft/wirtschaftsinformatik/profil/) (<img src="/images/de.png" title="german">)
 * degree: Bachelor of Science
 * duration: 10-2008 - 09-2011
 
 ## Gymnasium
 
-* [Gymnasium Plochingen](http://www.gymnasiumplochingen.de/) 
+* [Gymnasium Plochingen](http://www.gymnasiumplochingen.de/) (<img src="/images/de.png" title="german">)
 * degree: Abitur
 * duration: 09-1998 - 06-2007
