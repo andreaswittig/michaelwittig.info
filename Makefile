@@ -18,7 +18,7 @@ build:
 
 publish:
 	@echo "publish"
-	@aws --profile widdix s3 sync public/ s3://michaelwittig.info/
+	@aws s3 sync public/ s3://michaelwittig.info/
 
 deploy: getfeed build publish
 	@echo "deploy"
